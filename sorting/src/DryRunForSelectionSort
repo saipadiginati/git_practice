@@ -1,0 +1,4 @@
+[2,4,6,1,3,5]
+
+1. take first element and compare it with rest of the elements.(for loop) find the minimum element and swap it.
+and again for 2 element compare from second element to last element.swap ...
