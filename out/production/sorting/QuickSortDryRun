@@ -1,0 +1,3 @@
+2,4,1,5,2
+
+pick the pivot and find the greatest element from i(low++) w.r.t pivot. and smallest element from j(high--) w.r.t pivot and swap do it till i>j
