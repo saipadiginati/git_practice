@@ -1,3 +1,5 @@
+import java.util.ArrayList;
+
 public class Basics {
 
 public void bs(int[] arr,int target){
@@ -24,7 +26,9 @@ public void bs(int[] arr,int target){
     }
 
     if(count==0){
-        System.out.println("given number is not present int he array");
+        System.out.println("given number is not present int he array" );
+
+
     }
 }
 }
