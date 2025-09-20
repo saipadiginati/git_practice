@@ -2,9 +2,9 @@ public class Main {
 
     public static void main(String[] args) {
 
-        int [] arr={1,1,2,3,4,5,7,8,9};
+        int [] arr={1,1,2,3,4,4,5,7,8,9};
 
-        int target=6;
+        int target=5;
 
         Basics obj=new Basics();
         //obj.bs(arr,target);
@@ -13,8 +13,13 @@ public class Main {
         InsertionPosition ip=new InsertionPosition();
         //ip.ip(arr,target);
         FloorAndCeiling f=new FloorAndCeiling();
-        f.floor(arr, target);
-        f.ceiling(arr,target);
+       // f.floor(arr, target);
+        //f.ceiling(arr,target);
+        //LastOccuranceInSortedArray ls= new LastOccuranceInSortedArray();
+        //ls.lastOccurance(arr,target);
+
+        CountOccurance count=new CountOccurance();
+        count.count(arr,target);
 
 
     }
