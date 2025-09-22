@@ -1,4 +1,5 @@
 import java.util.Arrays;
+import java.util.Scanner;
 
 public class RearrangeArray {
 
@@ -85,5 +86,10 @@ public class RearrangeArray {
         RearrangeArray obj=new RearrangeArray();
         int[] result=obj.rearrangeArray1(arr);
         System.out.println(Arrays.toString(result));
+        String s="sai";
+        Scanner in = new Scanner(System.in);
+
+
+
     }
 }
