@@ -46,9 +46,13 @@ public class Main {
         //result=result;
         //System.out.println("array is rotate " + result  + " times");
         SingleElement element=new SingleElement();
-        int[] arr1 = {1, 1, 2, 2, 3, 3, 4, 5, 5, 6, 6};
-        int result=element.singleElement(arr1);
-        System.out.println(arr1[result] + " is a single element");
+//        int[] arr1 = {1, 1, 2, 2, 3, 3, 4, 5, 5, 6, 6};
+//        int result=element.singleElement(arr1);
+//        System.out.println(arr1[result] + " is a single element");
+
+        PeakElement e= new PeakElement();
+        int[] arr1= {1,2,3,4,5,2,1};
+        System.out.println(e.peak(arr1));
 
 
 
