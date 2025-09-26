@@ -1,10 +1,13 @@
+import bsOnAnswers.SmallestDiviisorUsingBS;
+import bsOnAnswers.SmallestDivisor;
+
 import java.util.ArrayList;
 
 public class Main {
 
     public static void main(String[] args) {
 
-        int [] arr={1,1,2,3,4,4,0,5,7,8,9};
+        int [] arr={44,22,33,11,1};
 
         int target=5;
 
@@ -40,7 +43,8 @@ public class Main {
 //        nums.add(8);
         nums.add(1);
         nums.add(2);
-        nums.add(3);
+        nums.add(5);
+        nums.add(9);
 
         //int result=r.rotate(nums);
         //result=result;
@@ -50,9 +54,15 @@ public class Main {
 //        int result=element.singleElement(arr1);
 //        System.out.println(arr1[result] + " is a single element");
 
-        PeakElement e= new PeakElement();
-        int[] arr1= {1,2,3,4,5,2,1};
-        System.out.println(e.peak(arr1));
+//        PeakElement e= new PeakElement();
+//        int[] arr1= {1,2,3,4,5,2,1};
+//        System.out.println(e.peak(arr1));
+
+//        SmallestDivisor o1=new SmallestDivisor();
+//        o1.smallDrv(nums,6);
+
+        SmallestDiviisorUsingBS obj1=new SmallestDiviisorUsingBS();
+        System.out.println(obj1.sd(arr,5));
 
 
 

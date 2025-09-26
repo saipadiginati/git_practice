@@ -46,7 +46,7 @@ public class Datatypes {
     }
 
     int a=5;
-    int b=
+    int b=10;
 
 
 
