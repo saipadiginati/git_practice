@@ -4,9 +4,18 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/sorting/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/sorting/Arrays/Arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/BinarySearch/BinarySearch.iml" filepath="$PROJECT_DIR$/BinarySearch/BinarySearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections/Collections.iml" filepath="$PROJECT_DIR$/Collections/Collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections/Iterable/Iterable.iml" filepath="$PROJECT_DIR$/Collections/Iterable/Iterable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP/MultiThreading/MultiThreading.iml" filepath="$PROJECT_DIR$/OOP/MultiThreading/MultiThreading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MultiThreadingProject/MultiThreadingProject.iml" filepath="$PROJECT_DIR$/MultiThreadingProject/MultiThreadingProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP/OOP.iml" filepath="$PROJECT_DIR$/OOP/OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recusion/Recursion.iml" filepath="$PROJECT_DIR$/Recusion/Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/generics/generics.iml" filepath="$PROJECT_DIR$/generics/generics.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/gitcourse.iml" filepath="$PROJECT_DIR$/.idea/gitcourse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/linkedList/linkedList.iml" filepath="$PROJECT_DIR$/linkedList/linkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice/practice.iml" filepath="$PROJECT_DIR$/practice/practice.iml" />
       <module fileurl="file://$PROJECT_DIR$/sorting/sorting.iml" filepath="$PROJECT_DIR$/sorting/sorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP/MultiThreading/src/src.iml" filepath="$PROJECT_DIR$/OOP/MultiThreading/src/src.iml" />
     </modules>
   </component>
 </project>
