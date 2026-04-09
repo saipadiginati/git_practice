@@ -9,6 +9,8 @@ class FactorialBatchMulti {
     private int i = 1; // number to produce
     private final int MAX = 25;
 
+    //Test1
+
     private final ReentrantLock lock = new ReentrantLock();
     private final Condition notFull = lock.newCondition();  // for producers
     private final Condition notEmpty = lock.newCondition(); // for consumers
